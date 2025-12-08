@@ -38,3 +38,7 @@ an advanced exstention to search and fetch for servers and detailed region info 
 #  NEXT UPDATE:
 - info tab to learn how the exstention works right from it
 - maybe custom links
+
+---------------------------------------------------------
+
+- the exstention was made using: mostly AI, some of my own skills and small amounts of templates (2)
