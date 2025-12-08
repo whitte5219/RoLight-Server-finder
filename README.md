@@ -16,7 +16,7 @@ a simple exstention to search and fetch a servers detailed region with one butto
 
 2.0 modes
 
-  2.1 - manual
+|  2.1 - manual
   - go to the region search tab
   - open any roblox game, go to the servers tab and scroll down untill you see servers
   - in there under each server you will see an 8 character code (example: XXXX-XXXX)
@@ -24,7 +24,7 @@ a simple exstention to search and fetch a servers detailed region with one butto
   - after that click fetch server button and you will see all info about the server
   - if you want to join the server join it manually or use the tab named server joining
 
-  2.2 - automatic
+|  2.2 - automatic
   - go to the server search tab
   - in the game id text field enter a game id that you want to search or open the game manually in the servers tab
   - then just click the blue button and all servers will show up in the exstention
