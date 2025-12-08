@@ -32,5 +32,5 @@ a simple exstention to search and fetch a servers detailed region with one butto
 
 
 **NEXT UPDATE:**
-- new mode: server searching (different from region searching)
-you will be able to search directly for servers in a specific game
+- info tab to learn how the exstention works right from it
+- maybe custom links
