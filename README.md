@@ -43,5 +43,5 @@ an advanced exstention to search and fetch for servers and detailed region info 
 
 - the exstention was made using: mostly AI, some of my own skills and small amounts of templates (2)
 
-<sub>small text</sub>
-<sup>even smaller text</sup>
+- <sub>small text</sub>
+- <sup>even smaller text</sup>
