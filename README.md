@@ -1,6 +1,6 @@
 # RoLight-Server-finder
 an advanced exstention to search and fetch a servers detailed region with one button
--# (its original name is "RoLight-Server-Finder" but it was named "roblox server region finder" for better understanding)
+*(its original name is "RoLight-Server-Finder" but it was named "roblox server region finder" for better understanding)*
 
 # download instructions
 1. download all files as a zip file
