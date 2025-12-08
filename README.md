@@ -43,5 +43,4 @@ an advanced exstention to search and fetch for servers and detailed region info 
 
 - the exstention was made using: mostly AI, some of my own skills and small amounts of templates (2)
 
-- <sub>small text</sub>
-- <sup>even smaller text</sup>
+<sub>this exstention only exist on github, there are no other publishers than the user "whitte5219" from github, | all safety rights reserved - confirmed safe software</sub>
