@@ -1,6 +1,6 @@
 # RoLight-Server-finder
 a simple exstention to search and fetch a servers detailed region with one button
-the exstention was made using: AI, my own skills and small amount of templates (2)
+- the exstention was made using: AI, my own skills and small amount of templates (2)
 
 # download instructions
 1. download all files as a zip file
