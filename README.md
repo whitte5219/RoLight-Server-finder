@@ -34,6 +34,6 @@ a simple exstention to search and fetch a servers detailed region with one butto
 **3.0 - important notes**
 - sometimes when using the automatic server searching, when loading servers the server page will crash, this error appears really often and its the issue of the roblox webpage, to fix it just reload the webpage or enable/disable any server filter on the page - this fixes the error 100% of the time
 
-**NEXT UPDATE:**
+#  NEXT UPDATE:
 - info tab to learn how the exstention works right from it
 - maybe custom links
