@@ -9,16 +9,27 @@ a simple exstention to search and fetch a servers detailed region with one butto
 5. drag the file into the chrome window or cick load unpacked and enter the saved path
 
 # use instructions
-- open the roblox page
-- upon opening, you will see a small draggable window on the bottom right of your screen
-- to use it go to any game and go to the servers tab
-- in there under every server you will see a small 8 character code (example: XXXX-XXXX)
-- copy the code and enter it into the Server JobId
-- pick your own region (optional)
-- click fetch and after that you will get the detailed info about the server
-- to view last 3 searched servers open the search log at the bottom
 
-the exstention will get upgrades in the future, for now its just a simple singular server viewer
+1.0 setup
+- open the roblox page
+- upon opening, you will see a small draggable window on the bottom right of your screen - that is the exstention
+
+2.0 modes
+
+  2.1 - manual
+  - go to the region search tab
+  - open any roblox game, go to the servers tab and scroll down untill you see servers
+  - in there under each server you will see an 8 character code (example: XXXX-XXXX)
+  - copy the code and enter it to the job id text field
+  - after that click fetch server button and you will see all info about the server
+  - if you want to join the server join it manually or use the tab named server joining
+
+  2.2 - automatic
+  - go to the server search tab
+  - in the game id text field enter a game id that you want to search or open the game manually in the servers tab
+  - then just click the blue button and all servers will show up in the exstention
+  - to join any of them click the green join button next to each one
+
 
 **NEXT UPDATE:**
 - new mode: server searching (different from region searching)
