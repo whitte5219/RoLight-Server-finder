@@ -10,14 +10,14 @@ a simple exstention to search and fetch a servers detailed region with one butto
 
 # use instructions
 
-1.0 setup
+**1.0 setup**
 - open the roblox page
 - upon opening, you will see a small draggable window on the bottom right of your screen - that is the exstention
 
-2.0 modes
+**2.0 modes**
 - the exstention has 2 modes of server searching, they both are the opposite of each other
 
-|  2.1 - manual
+**|  2.1 - manual**
   - go to the region search tab
   - open any roblox game, go to the servers tab and scroll down untill you see servers
   - in there under each server you will see an 8 character code (example: XXXX-XXXX)
@@ -25,12 +25,14 @@ a simple exstention to search and fetch a servers detailed region with one butto
   - after that click fetch server button and you will see all info about the server
   - if you want to join the server join it manually or use the tab named server joining
 
-|  2.2 - automatic
+**|  2.2 - automatic**
   - go to the server search tab
   - in the game id text field enter a game id that you want to search or open the game manually in the servers tab
   - then just click the blue button and all servers will show up in the exstention
   - to join any of them click the green join button next to each one
 
+**3.0 - important notes**
+- sometimes when using the automatic server searching, when loading servers the server page will crash, this error appears really often and its the issue of the roblox webpage, to fix it just reload the webpage or enable/disable any server filter on the page - this fixes the error 100% of the time
 
 **NEXT UPDATE:**
 - info tab to learn how the exstention works right from it
