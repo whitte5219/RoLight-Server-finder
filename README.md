@@ -15,6 +15,7 @@ a simple exstention to search and fetch a servers detailed region with one butto
 - upon opening, you will see a small draggable window on the bottom right of your screen - that is the exstention
 
 2.0 modes
+- the exstention has 2 modes of server searching, they both are the opposite of each other
 
 |  2.1 - manual
   - go to the region search tab
